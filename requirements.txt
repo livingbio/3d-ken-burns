@@ -191,7 +191,7 @@ pycparser==2.20
     # via cffi
 pydantic==1.8.2
     # via fastapi
-pygments==2.10.0
+pygments==2.20.0
     # via
     #   ipython
     #   jupyter-console
